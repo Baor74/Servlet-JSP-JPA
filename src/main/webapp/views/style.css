@@ -1,0 +1,13 @@
+.head>h1 {
+    font-family: Impact;
+    font-size: 50px;
+    color: rgb(245, 169, 111);
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+.dropdown-menu {
+    margin-top: 0;
+}
